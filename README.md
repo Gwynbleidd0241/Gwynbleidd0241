@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="https://gitlab.com/Gwynbleidd0241">
-    <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+    <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=black" alt="GitLab Badge"/>
   </a>
   <a href="https://t.me/Gwynbleidd0241">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
