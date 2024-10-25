@@ -13,24 +13,19 @@
     <img src="https://img.shields.io/badge/Mirea-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Mirea Badge" />
   </a>
 </div>
-<!-- <div align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gwynbleidd0241&theme=dark&background=000000)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwynbleidd0241&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div> -->
-
 <div align="center">
   <div style="margin-bottom: 20px;">
     <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=Gwynbleidd0241&theme=dark&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak"/>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=Gwynbleidd0241&theme=dark&background=000000" alt="GitHub Streak"/>
     </a>
   </div>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwynbleidd0241&layout=compact&theme=vision-friendly-dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwynbleidd0241&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
     </a>
   </div>
 </div>
+
 
 
 
