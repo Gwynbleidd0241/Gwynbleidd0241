@@ -21,7 +21,7 @@
   </div>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwynbleidd0241&layout=compact&theme=vision-friendly-dark&timestamp=${new Date().getTime()}" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwynbleidd0241&layout=compact&theme=vision-friendly-dark&cache_seconds=1800" alt="Top Languages"/>
     </a>
   </div>
 </div>
