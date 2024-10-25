@@ -1,8 +1,8 @@
-<div id="header" style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+<div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ3bDlvYnh3bWZsYngwNHhoczU5aDNoZm42YjZ0Nm9vbGg2MTNnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MBTl5FKAmwwoBwTQjk/giphy.gif" width="100" />
 </div>
 
-<div id="badges" style="display: flex; justify-content: center; margin-top: 20px; gap: 20px;">
+<div id="badges"  align="center">
   <a href="https://gitlab.com/Gwynbleidd0241">
     <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=black" alt="GitLab Badge" />
   </a>
