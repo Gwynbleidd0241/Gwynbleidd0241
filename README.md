@@ -16,12 +16,12 @@
 <div align="center">
   <div style="margin-bottom: 20px;">
     <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=Gwynbleidd0241&theme=dark&background=000000" alt="GitHub Streak"/>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=Gwynbleidd0241&theme=dark&background=000000&timestamp=${new Date().getTime()}" alt="GitHub Streak"/>
     </a>
   </div>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwynbleidd0241&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwynbleidd0241&layout=compact&theme=vision-friendly-dark&timestamp=${new Date().getTime()}" alt="Top Languages"/>
     </a>
   </div>
 </div>
