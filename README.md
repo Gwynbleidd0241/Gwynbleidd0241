@@ -14,18 +14,7 @@
   </a>
 </div>
 
-<div id="counter" style="text-align: center; margin-top: 10px;">
-  <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=page&initCount=0" alt="Visit Counter" />
-</div>
-
-
-<div id="counter" style="text-align: center; margin-top: 10px;">
-  <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=page&initCount=0" alt="Visit Counter"/>
-</div>
-
-<div id="counter" style="text-align: center; margin-top: 10px;">
-  <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=page&initCount=0" alt="Visit Counter"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=blue" alt=""/>
 
 
 
