@@ -1,17 +1,16 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ3bDlvYnh3bWZsYngwNHhoczU5aDNoZm42YjZ0Nm9vbGg2MTNnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MBTl5FKAmwwoBwTQjk/giphy.gif" width="100"/>
 </div>
-<!--
-**Gwynbleidd0241/Gwynbleidd0241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="badges">
+  <a href="Telegram-URL">
+    <img src="https://t.me/Gwynbleidd0241" alt="Telegram Badge"/>
+  </a>
+  <a href="Discord-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
