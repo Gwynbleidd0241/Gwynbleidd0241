@@ -14,6 +14,15 @@
     <img src="https://img.shields.io/badge/Mirea-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Mirea Badge" />
   </a>
 </div>
-
-
-
+<div align="center">
+  <div style="margin-bottom: 20px;">
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=Gwynbleidd0241&theme=dark&background=000000&timestamp=${new Date().getTime()}" alt="GitHub Streak"/>
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwynbleidd0241&layout=compact&theme=vision-friendly-dark&cache_seconds=1800" alt="Top Languages"/>
+    </a>
+  </div>
+</div>
